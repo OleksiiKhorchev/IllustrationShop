@@ -1,0 +1,9 @@
+D:\Projects\IllustrationShop\IllustrationShop.BusinessServices\bin\Debug\IllustrationShop.BusinessServices.dll
+D:\Projects\IllustrationShop\IllustrationShop.BusinessServices\bin\Debug\IllustrationShop.BusinessServices.pdb
+D:\Projects\IllustrationShop\IllustrationShop.BusinessServices\bin\Debug\IllustrationShop.DataAccess.dll
+D:\Projects\IllustrationShop\IllustrationShop.BusinessServices\bin\Debug\IllustrationShop.Entities.dll
+D:\Projects\IllustrationShop\IllustrationShop.BusinessServices\bin\Debug\IllustrationShop.DataAccess.pdb
+D:\Projects\IllustrationShop\IllustrationShop.BusinessServices\bin\Debug\IllustrationShop.Entities.pdb
+D:\Projects\IllustrationShop\IllustrationShop.BusinessServices\obj\Debug\IllustrationShop.BusinessServices.csprojResolveAssemblyReference.cache
+D:\Projects\IllustrationShop\IllustrationShop.BusinessServices\obj\Debug\IllustrationShop.BusinessServices.dll
+D:\Projects\IllustrationShop\IllustrationShop.BusinessServices\obj\Debug\IllustrationShop.BusinessServices.pdb

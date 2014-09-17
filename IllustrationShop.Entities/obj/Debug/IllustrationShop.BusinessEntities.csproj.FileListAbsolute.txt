@@ -1,0 +1,4 @@
+D:\Projects\IllustrationShop\IllustrationShop.Entities\bin\Debug\IllustrationShop.Entities.dll
+D:\Projects\IllustrationShop\IllustrationShop.Entities\bin\Debug\IllustrationShop.Entities.pdb
+D:\Projects\IllustrationShop\IllustrationShop.Entities\obj\Debug\IllustrationShop.Entities.dll
+D:\Projects\IllustrationShop\IllustrationShop.Entities\obj\Debug\IllustrationShop.Entities.pdb
