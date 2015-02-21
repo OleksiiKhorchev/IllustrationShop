@@ -1,6 +1,0 @@
-D:\Projects\IllustrationShop\IllustrationShop\bin\Debug\IllustrationShop.exe.config
-D:\Projects\IllustrationShop\IllustrationShop\bin\Debug\IllustrationShop.exe
-D:\Projects\IllustrationShop\IllustrationShop\bin\Debug\IllustrationShop.pdb
-D:\Projects\IllustrationShop\IllustrationShop\obj\Debug\IllustrationShop.Root.csprojResolveAssemblyReference.cache
-D:\Projects\IllustrationShop\IllustrationShop\obj\Debug\IllustrationShop.exe
-D:\Projects\IllustrationShop\IllustrationShop\obj\Debug\IllustrationShop.pdb
