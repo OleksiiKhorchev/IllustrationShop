@@ -45,8 +45,28 @@ namespace IllustrationShop.BusinessServices
             _core.ClearAllForCurrentUser();
 
             _reservations = null;
+
+            MyDelegate test = DelegateImpl;
+
+            test(5);
         }
 
+        public delegate string MyDelegate(int i);
 
+        private string DelegateImpl(int i)
+        {
+            return i.ToString();
+        }
+
+        public event MyDelegate MyDelegateEvent;
+
+        protected virtual string OnMyDelegateEvent(int i)
+        {
+            var handler = MyDelegateEvent;
+            if (handler != null)
+                return handler(i);
+
+            throw new Exception();
+        }
     }
 }
