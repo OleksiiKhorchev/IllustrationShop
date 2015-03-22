@@ -16,8 +16,8 @@ namespace IllustrationShop.BusinessServices
 
         public decimal CalculatePrice(List<Reservation> reservations)
         {
-            //return (1 - _discountRateProvider.GetDiscountRateForCurrentUser())
-            //    * reservations.Sum(o => o.Product.Price);
+            return (1 - _discountRateProvider.GetDiscountRateForCurrentUser())
+                * reservations.Sum(o => o.Product.Price);
 
             CachingReservationService testReservationService = new CachingReservationService(null, new TimeSpan());
 
